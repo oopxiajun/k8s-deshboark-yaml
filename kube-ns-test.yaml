@@ -1,0 +1,6 @@
+kind: Namespace         #类型为Namespace
+apiVersion: v1          #版本号为V1
+metadata:
+  name: oopxiajun-ns-test
+  labels:
+    name: label-test-v1
